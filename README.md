@@ -13,7 +13,7 @@ $ npm install --save @ionic-native/facebook
 
 *in app.modules.ts insert lines below:*
 ```javascript
-import { Facebook, FacebookLoginResponse } from '@ionic-native/facebook';
+import { Facebook } from '@ionic-native/facebook';
 
 providers: [
 ...
